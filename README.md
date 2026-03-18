@@ -35,36 +35,31 @@ The solution ensures that:
 
 ## 📸 Screenshots
 
-### 🔹 All Resources
+### 🔹 All Resources  
+👉 [View Image](./all-resources.PNG)
 
-👉 [View Image](./all-resources.png)
-
-![All Resources](./all-resources.png)
-
----
-
-### 🔹 Private VM (RDP Connection)
-
-👉 [View Image](./private-vm-rdp.png)
-
-![Private VM](./private-vm-rdp.png)
+![All Resources](./all-resources.PNG)
 
 ---
 
-### 🔹 NSG Rules Configuration
+### 🔹 Private VM (RDP Connection)  
+👉 [View Image](./private-vm-rdp.PNG)
 
-👉 [View Image](./nsg-rules.png)
-
-![NSG Rules](./nsg-rules.png)
+![Private VM](./private-vm-rdp.PNG)
 
 ---
 
-### 🔹 File Share Mounted on VM
+### 🔹 NSG Rules Configuration  
+👉 [View Image](./nsg-rules.PNG)
 
-👉 [View Image](./file-share-mounted.png)
+![NSG Rules](./nsg-rules.PNG)
 
-![File Share](./file-share-mounted.png)
+---
 
+### 🔹 File Share Mounted on VM  
+👉 [View Image](./file-share-mounted.PNG)
+
+![File Share](./file-share-mounted.PNG)
 ---
 
 ## 📁 ARM Templates
